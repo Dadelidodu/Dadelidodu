@@ -18,7 +18,9 @@ I believe in the power of data to:
 * 🧑‍💻 Projects in data science, AI, and machine learning
 * 📊 Data visualizations that tell compelling stories
 * 📝 Learning resources, tutorials, and code snippets
-* 💫 What I'm Up To
+  
+###  💫 What I'm Up To
+  
 * 🌱 Learning: Constantly exploring new concepts in AI and tech.
 * 🧩 Building: Working on AI projects to make a positive impact.
 
